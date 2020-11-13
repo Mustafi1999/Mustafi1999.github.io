@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project5_Tetris_Mustafa_Sayeed",
+"productVersion": "0.1",
+"dataUrl": "webgl_project.data.unityweb",
+"wasmCodeUrl": "webgl_project.wasm.code.unityweb",
+"wasmFrameworkUrl": "webgl_project.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
