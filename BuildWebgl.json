@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Probuilder_beginning",
+"productVersion": "0.1",
+"dataUrl": "https://mustafi1999.github.io/BuildWebgl.data.unityweb",
+"wasmCodeUrl": "https://mustafi1999.github.io/BuildWebgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://mustafi1999.github.io/BuildWebgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
